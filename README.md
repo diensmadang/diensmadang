@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @diensmadang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Tajudin Noor
+Software Engineer
 
-<!---
-diensmadang/diensmadang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Banjarmasin, South Kalimantan
+ 
+
+About
+I build applications and systems that bridge education and technology.
+
+Tech Stack
+Vue.js Next.js Tailwind CSS Bootstrap Pinia Laravel PHP Node.js Python FastAPI Flutter Ionic Kotlin VB.NET MySQL PostgreSQL MariaDB SQLite Linux Ubuntu Apache Git VS Code Vite npm Yarn Canva
