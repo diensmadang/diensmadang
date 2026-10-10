@@ -1,4 +1,4 @@
-Tajudin Noor
+Tajudin Noor<br/>
 Software Engineer
 
 📍 Banjarmasin, South Kalimantan
