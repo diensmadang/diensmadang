@@ -1,4 +1,4 @@
-<h3>Tajudin Noor</h
+<h3>Tajudin Noor</h3>
 <blockquote>
 <p dir="auto">Software Engineer</p>
 </blockquote>
